@@ -1,0 +1,19 @@
+{
+  "name": "job-board",
+  "version": "1.0.0",
+  "description": "A job board where people can post job openings and job seekers can retrieve posted jpb",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dheerajkumarsaw/job-board.git"
+  },
+  "author": "dheeraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dheerajkumarsaw/job-board/issues"
+  },
+  "homepage": "https://github.com/Dheerajkumarsaw/job-board#readme"
+}
