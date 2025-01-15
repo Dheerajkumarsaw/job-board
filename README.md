@@ -48,8 +48,8 @@ $ npm start
 
 # Test APIs 
 # Open Postman and test all the APIs
-# Method          URL                           Description
 ```shell
+# Method          URL                           Description
 $ POST      http://localhost:3000/api/jobs         To Create the Job
 $ GET       http://localhost:3000/api/jobs         To Get All the jobs
 $ GET       http://localhost:3000/api/jobs/{id}    To Get By Id
