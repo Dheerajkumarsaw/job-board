@@ -47,7 +47,7 @@ $ npm start
 ```
 
 # Test APIs 
-# Open Postman and all the apis
+# Open Postman and test all the APIs
 # Method          URL                           Description
 ```shell
 $ POST      http://localhost:3000/api/jobs         To Create the Job
