@@ -1,0 +1,3 @@
+/node_modules
+/dist
+# /.env == exporting env to your team to test the api otherwise it should be private
